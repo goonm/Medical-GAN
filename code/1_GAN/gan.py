@@ -96,7 +96,9 @@ class CustomDataset(Dataset):
         
         img = cv2.imread(self.data_path[idx],0)
         img = cv2.resize(img, self.img_shape)
-        img = (img-np.mean(img))/np.std(img)
+        #img = (img-np.mean(img))/np.std(img)
+        img = (img-np.min(img))/(np.max(img)-np.min(img))
+        img = (img*2) -1
         img = torch.from_numpy(img)
         return img
 
