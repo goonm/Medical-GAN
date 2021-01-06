@@ -8,6 +8,18 @@ We used **300 MRI images** and  **"T1 & T2" images**.
 Dataset can be downloaded in [[link]](https://drive.google.com/drive/folders/1HqEgzS8BV2c7xYNrZdEAnrHk7osJJ--2). (Task01_BrainTumour.tar)
 
 
+# Training
+Input Size : 256x256
+
+Batch Size : 4
+
+Number of epoch : 300
+
+Number of iteration : 25
+
+**Identity loss weight : 0.5** (If the values is high(>=1), Generator fails to make different domain images) 
+
+
 # Result
 ## Task A : T1 -> T2
 
