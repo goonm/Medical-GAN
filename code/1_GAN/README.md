@@ -17,7 +17,7 @@ Number of epoch : 200
 
 # Result
 <p align="left">
-    <img src="result_image.gif" width="256"\>
+    <img src="result/result_image.gif" width="256"\>
 </p>
 
 
