@@ -3,7 +3,7 @@ Datasets are brain MRI images consisting of 4 scans.
 
 4 scans were co-registered(paired data).
 
-We used **300 MRI images** and  **"T1 & T2" images**.
+We used **300 "T1 & T2" images**.
 
 Dataset can be downloaded in [[link]](https://drive.google.com/drive/folders/1HqEgzS8BV2c7xYNrZdEAnrHk7osJJ--2). (Task01_BrainTumour.tar)
 
