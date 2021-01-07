@@ -227,7 +227,7 @@ for epoch in range(opt.epoch, opt.n_epochs):
     loss_D_epoch.append(loss_D.item())
     print(
         "[Epoch %d/%d] [D loss: %f] [G loss: %f]"
-        % (epoch, opt.n_epochs, np.mean(np.array(loss_G_epoch)), np.mean(np.array(loss_D_epoch)))
+        % (epoch, opt.n_epochs, np.mean(np.array(loss_D_epoch)), np.mean(np.array(loss_G_epoch)))
     )
     print('Training time for one epoch : %.1f\n' % (time.time() - t1))
     
