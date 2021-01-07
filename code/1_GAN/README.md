@@ -3,7 +3,11 @@ We used 1,340 normal chest X-ray images.
 
 Dataset can be downloaded in [[link]](https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia).
 
-
+    data/
+    ├── img-0001.jpeg
+    ├── img-0002.jpeg
+    ├── img-0003.jpeg
+    ├── ...
 
 # Training
 Input Size : 512x512
