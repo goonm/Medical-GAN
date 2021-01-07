@@ -7,7 +7,19 @@ We used **300 "T1 & T2" images**.
 
 Dataset can be downloaded in [[link]](https://drive.google.com/drive/folders/1HqEgzS8BV2c7xYNrZdEAnrHk7osJJ--2). (Task01_BrainTumour.tar)
 
-
+    data
+    ├── train
+    │     ├──── BRATS_001.nii.gz
+    │     ├──── BRATS_002.nii.gz
+    │     ├──── BRATS_003.nii.gz
+    │     ├──── ...
+    │
+    └── val
+          ├──── BRATS_501.nii.gz
+          ├──── BRATS_502.nii.gz
+          ├──── BRATS_503.nii.gz
+          ├──── ...
+          
 # Training
 Input Size : 256x256
 
