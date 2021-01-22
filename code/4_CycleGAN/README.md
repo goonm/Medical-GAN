@@ -48,7 +48,7 @@ Number of iteration : 25
 
 # Run Example
 ```
-$ cd code/5_CycleGAN
+$ cd code/4_CycleGAN
 $ python3 cyclegan.py
 ```
 
