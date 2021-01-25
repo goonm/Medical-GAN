@@ -31,13 +31,13 @@ Number of downsampling / residual blocks : 2 / 4
 
 **Loss Weight :**
 
-**(1) GAN Loss : 10**
+**- (1) GAN Loss : 10**
   
-**(2) VAE Reconstruction Loss : 100**
+**- (2) VAE Reconstruction Loss : 100**
   
-**(3) VAE Regularization(D_KL) Loss : 0.1**
+**- (3) VAE Regularization(D_KL) Loss : 0.1**
   
-**(4) Cycle-consistency Reconstruction Loss : 100**
+**- (4) Cycle-consistency Reconstruction Loss : 100**
 
 
 # Result
