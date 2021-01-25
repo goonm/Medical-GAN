@@ -27,6 +27,6 @@ Number of epoch : 200
 
 # Run Example
 ```
-$ cd code/1_GAN
+$ cd code/001_GAN
 $ python3 gan.py
 ```

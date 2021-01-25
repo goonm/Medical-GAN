@@ -37,7 +37,7 @@ Latent Vector Size : 1000
 
 # Run Example
 ```
-$ cd code/3_CoGAN
+$ cd code/003_CoGAN
 $ python3 cogan.py
 ```
 

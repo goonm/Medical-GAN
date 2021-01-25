@@ -56,7 +56,7 @@ Number of downsampling / residual blocks : 2 / 4
 
 # Run Example
 ```
-$ cd code/5_UNIT
+$ cd code/005_UNIT
 $ python3 unit.py
 ```
 

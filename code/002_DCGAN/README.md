@@ -27,6 +27,6 @@ Number of epoch : 300
 
 # Run Example
 ```
-$ cd code/2_DCGAN
+$ cd code/002_DCGAN
 $ python3 dcgan.py
 ```
