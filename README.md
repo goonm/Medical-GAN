@@ -11,3 +11,4 @@
 | **003_CoGAN** :Coupled Generative Adversarial Networks| [Paper](https://arxiv.org/abs/1606.07536) | [Code](code/003_CoGAN)     |
 | **004_CycleGAN** :Unpaired Image-to-Image Transfaltion using Cycle-Consistent Adversarial Networks| [Paper](https://arxiv.org/abs/1703.10593) |[Code](code/004_CycleGAN)   |
 | **005_UNIT** :Unsupervised Image-to-Image Translation Networks| [Paper](https://arxiv.org/abs/1703.00848) |[Code](code/005_UNIT)   |
+| **006_MUNIT** :Multimodal Unsupervised Image-to-Image Translation| [Paper](https://arxiv.org/abs/1804.04732) |[Code](code/006_MUNIT)   |
